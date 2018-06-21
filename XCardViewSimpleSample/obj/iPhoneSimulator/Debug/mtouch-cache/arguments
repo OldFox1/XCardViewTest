@@ -1,0 +1,27 @@
+# Version: 11.8.0.20 (d15-6: 1c6f300e)
+# [first argument, ignore] # --cache=/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mtouch/mtouch.exe \
+	--sim=/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/bin/iPhoneSimulator/Debug/XCardViewSimpleSample.app \
+	--executable=XCardViewSimpleSample \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot=/Applications/Xcode.app/Contents/Developer \
+	--sdk=11.2 \
+	--targetver=7.0 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=i386 \
+	--symbollist=/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	--gcc_flags \
+	'-Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/Entitlements.xcent' \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r=/Users/barak/Downloads/XCardView-1.1/lib/ios-unified/XCardView.dll \
+	-r=/Users/barak/Downloads/XCardView-1.1/lib/ios-unified/XCardView.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	--root-assembly=/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/bin/iPhoneSimulator/Debug/XCardViewSimpleSample.exe \

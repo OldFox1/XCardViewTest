@@ -1,0 +1,12 @@
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/bin/iPhone/Release/swipetest.exe
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/bin/iPhone/Release/swipetest.pdb
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/bin/iPhone/Release/XCardView.dll
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/coremlc/_PartialAppManifest.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/optimized/
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/swipetest.csproj.CoreCompileInputs.cache
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/swipetest.exe
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/swipetest.pdb

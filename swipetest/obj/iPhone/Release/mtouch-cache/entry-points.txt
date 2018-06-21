@@ -1,0 +1,12 @@
+Function=xamarin_timezone_get_data
+	/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+ObjectiveCClass=OBJC_CLASS_$_ZLSwipeableView
+	/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/mtouch-cache/Link/XCardView.dll
+ObjectiveCClass=OBJC_CLASS_$_ZLPanGestureRecognizer
+	/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhone/Release/mtouch-cache/Link/XCardView.dll

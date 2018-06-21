@@ -1,0 +1,12 @@
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/bin/iPhoneSimulator/Debug/XCardViewSimpleSample.exe
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/bin/iPhoneSimulator/Debug/XCardViewSimpleSample.pdb
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/bin/iPhoneSimulator/Debug/XCardView.dll
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/optimized/
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/XCardViewSimpleSample.csproj.CoreCompileInputs.cache
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/XCardViewSimpleSample.exe
+/Users/barak/Downloads/XCardView-1.1/samples/XCardViewSimpleSample/XCardViewSimpleSample/obj/iPhoneSimulator/Debug/XCardViewSimpleSample.pdb

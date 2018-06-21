@@ -1,0 +1,12 @@
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/bin/iPhoneSimulator/Release/swipetest.exe
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/bin/iPhoneSimulator/Release/swipetest.pdb
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/bin/iPhoneSimulator/Release/XCardView.dll
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/coremlc/_PartialAppManifest.items
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/optimized/
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/swipetest.csproj.CoreCompileInputs.cache
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/swipetest.exe
+/Users/barak/Desktop/JobFair/OldFox1/XCardView-1.1/samples/XCardViewSimpleSample/swipetest/obj/iPhoneSimulator/Release/swipetest.pdb

@@ -1,0 +1,30 @@
+objc[80571]: Class VCWeakObjectHolder is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AVConference.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace (0x132ab34d0) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/PrivateFrameworks/AVConference.framework/AVConference (0x133725e38). One of the two will be used. Which one is undefined.
+2018-06-22 00:13:00.338 swipetest[80571:2375717] Right
+2018-06-22 00:13:01.460 swipetest[80571:2375717] Left
+2018-06-22 00:13:01.523 swipetest[80571:2375717] The future lies in designing and selling computers that people don't realize are computers at all. -Adam Osborne
+2018-06-22 00:13:02.887 swipetest[80571:2375717] Right
+2018-06-22 00:13:04.297 swipetest[80571:2375717] Left
+2018-06-22 00:13:04.297 swipetest[80571:2375717] The internet could be a very positive step towards education, organisation and participation in a meaningful society.  -Noam Chomsky
+2018-06-22 00:13:06.792 swipetest[80571:2375717] Right
+2018-06-22 00:13:07.913 swipetest[80571:2375717] Left
+2018-06-22 00:13:07.913 swipetest[80571:2375717] The future lies in designing and selling computers that people don't realize are computers at all. -Adam Osborne
+2018-06-22 00:13:09.818 swipetest[80571:2375717] Right
+2018-06-22 00:13:12.757 swipetest[80571:2375717] Left
+2018-06-22 00:13:12.758 swipetest[80571:2375717] Be happy.
+2018-06-22 00:13:19.294 swipetest[80571:2375717] Right
+2018-06-22 00:13:19.858 swipetest[80571:2375717] Left
+2018-06-22 00:13:19.859 swipetest[80571:2375717] The internet could be a very positive step towards education, organisation and participation in a meaningful society.  -Noam Chomsky
+2018-06-22 00:13:20.451 swipetest[80571:2375717] Right
+2018-06-22 00:13:21.071 swipetest[80571:2375717] Left
+2018-06-22 00:13:21.071 swipetest[80571:2375717] The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do. -Ted Nelson
+2018-06-22 00:13:21.832 swipetest[80571:2375717] Right
+2018-06-22 00:13:22.437 swipetest[80571:2375717] Left
+2018-06-22 00:13:22.437 swipetest[80571:2375717] Be happy.
+2018-06-22 00:13:23.130 swipetest[80571:2375717] Right
+2018-06-22 00:13:25.284 swipetest[80571:2375717] Right
+2018-06-22 00:13:27.412 swipetest[80571:2375717] Left
+2018-06-22 00:13:27.413 swipetest[80571:2375717] Computer science is no more about computers than astronomy is about telescopes. -Edsger Dijkstra
+2018-06-22 00:13:31.514 swipetest[80571:2375717] Left
+2018-06-22 00:13:31.514 swipetest[80571:2375717] Be grateful for the good things you have in your life.
+2018-06-22 00:13:33.652 swipetest[80571:2375717] Right
+2018-06-22 00:13:36.376 swipetest[80571:2375717] Right
